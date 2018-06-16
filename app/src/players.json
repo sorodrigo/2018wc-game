@@ -1,0 +1,5406 @@
+{
+  "adam": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 4,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    }
+  ],
+  "ariadna": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 3,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 3,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    }
+  ],
+  "barrenechea": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 3,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    }
+  ],
+  "craig": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    }
+  ],
+  "davidInga": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 3,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    }
+  ],
+  "edBrett": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 0,
+        "away": 5,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 3,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 5,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 3,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 7,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 4,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 7,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 3,
+        "away": 3,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 4,
+        "away": 3,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 5,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 2,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 5,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 4,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 3,
+        "away": 3,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 0,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 1,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 1,
+        "away": 5,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 3,
+        "away": 2,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    }
+  ],
+  "fausto": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    }
+  ],
+  "joseangel": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 0,
+        "away": 5,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 1,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 3,
+        "away": 3,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    }
+  ],
+  "laura": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 1,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 4,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 5,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 1,
+        "away": 5,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 1,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 4,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    }
+  ],
+  "pabloHenares": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 4,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 4,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    }
+  ],
+  "raul": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    }
+  ],
+  "rodrigo": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 4,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 5,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 4,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 4,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 4,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 2,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    }
+  ],
+  "tiago": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 1,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 4,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 4,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 1,
+        "away": 1,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 0,
+        "away": 0,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    }
+  ],
+  "tomasEriksson": [
+    {
+      "gameId": 0,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 1,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 2,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 3,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 4,
+      "result": {
+        "home": 4,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 5,
+      "result": {
+        "home": 2,
+        "away": 2,
+        "value": 3
+      }
+    },
+    {
+      "gameId": 6,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 7,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 8,
+      "result": {
+        "home": 3,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 9,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 10,
+      "result": {
+        "home": 4,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 11,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 12,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 13,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 14,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 15,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 16,
+      "result": {
+        "home": 1,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 17,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 18,
+      "result": {
+        "home": 4,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 19,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 20,
+      "result": {
+        "home": 4,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 21,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 22,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 23,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 24,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 25,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 26,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 27,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 28,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 29,
+      "result": {
+        "home": 3,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 30,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 31,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 32,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 33,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 34,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 35,
+      "result": {
+        "home": 2,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 36,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 37,
+      "result": {
+        "home": 1,
+        "away": 0,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 38,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 39,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 40,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 41,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 42,
+      "result": {
+        "home": 0,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 43,
+      "result": {
+        "home": 2,
+        "away": 3,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 44,
+      "result": {
+        "home": 2,
+        "away": 1,
+        "value": 1
+      }
+    },
+    {
+      "gameId": 45,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 46,
+      "result": {
+        "home": 0,
+        "away": 1,
+        "value": 2
+      }
+    },
+    {
+      "gameId": 47,
+      "result": {
+        "home": 0,
+        "away": 2,
+        "value": 2
+      }
+    }
+  ]
+}

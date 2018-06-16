@@ -1,0 +1,104 @@
+[
+  {
+    "homeTeam": "RUS",
+    "awayTeam": "ARA",
+    "gameId": 0,
+    "result": {
+      "home": 5,
+      "away": 0,
+      "value": 1
+    }
+  },
+  {
+    "homeTeam": "EGI",
+    "awayTeam": "URU",
+    "gameId": 1,
+    "result": {
+      "home": 0,
+      "away": 1,
+      "value": 2
+    }
+  },
+  {
+    "homeTeam": "POR",
+    "awayTeam": "ESP",
+    "gameId": 2,
+    "result": {
+      "home": 3,
+      "away": 3,
+      "value": 3
+    }
+  },
+  {
+    "homeTeam": "MAR",
+    "awayTeam": "IRA",
+    "gameId": 3,
+    "result": {
+      "home": 0,
+      "away": 1,
+      "value": 2
+    }
+  },
+  {
+    "homeTeam": "FRA",
+    "awayTeam": "AUS",
+    "gameId": 4,
+    "result": {
+      "home": 2,
+      "away": 1,
+      "value": 1
+    }
+  },
+  {
+    "homeTeam": "PER",
+    "awayTeam": "DIN",
+    "gameId": 5,
+    "result": {
+      "home": 0,
+      "away": 1,
+      "value": 2
+    }
+  },
+  { "homeTeam": "ARG", "awayTeam": "ISL", "gameId": 6, "result": null },
+  { "homeTeam": "CRO", "awayTeam": "NIG", "gameId": 7, "result": null },
+  { "homeTeam": "BRA", "awayTeam": "SUI", "gameId": 8, "result": null },
+  { "homeTeam": "COS", "awayTeam": "SER", "gameId": 9, "result": null },
+  { "homeTeam": "ALE", "awayTeam": "MEX", "gameId": 10, "result": null },
+  { "homeTeam": "SUE", "awayTeam": "COR", "gameId": 11, "result": null },
+  { "homeTeam": "BEL", "awayTeam": "PAN", "gameId": 12, "result": null },
+  { "homeTeam": "TUN", "awayTeam": "ING", "gameId": 13, "result": null },
+  { "homeTeam": "POL", "awayTeam": "SEN", "gameId": 14, "result": null },
+  { "homeTeam": "COL", "awayTeam": "JAP", "gameId": 15, "result": null },
+  { "homeTeam": "RUS", "awayTeam": "EGI", "gameId": 16, "result": null },
+  { "homeTeam": "URU", "awayTeam": "ARA", "gameId": 17, "result": null },
+  { "homeTeam": "POR", "awayTeam": "MAR", "gameId": 18, "result": null },
+  { "homeTeam": "IRA", "awayTeam": "ESP", "gameId": 19, "result": null },
+  { "homeTeam": "FRA", "awayTeam": "PER", "gameId": 20, "result": null },
+  { "homeTeam": "DIN", "awayTeam": "AUS", "gameId": 21, "result": null },
+  { "homeTeam": "ARG", "awayTeam": "CRO", "gameId": 22, "result": null },
+  { "homeTeam": "NIG", "awayTeam": "ISL", "gameId": 23, "result": null },
+  { "homeTeam": "BRA", "awayTeam": "COS", "gameId": 24, "result": null },
+  { "homeTeam": "SER", "awayTeam": "SUI", "gameId": 25, "result": null },
+  { "homeTeam": "ALE", "awayTeam": "SUE", "gameId": 26, "result": null },
+  { "homeTeam": "COR", "awayTeam": "MEX", "gameId": 27, "result": null },
+  { "homeTeam": "BEL", "awayTeam": "TUN", "gameId": 28, "result": null },
+  { "homeTeam": "ING", "awayTeam": "PAN", "gameId": 29, "result": null },
+  { "homeTeam": "POL", "awayTeam": "COL", "gameId": 30, "result": null },
+  { "homeTeam": "JAP", "awayTeam": "SEN", "gameId": 31, "result": null },
+  { "homeTeam": "URU", "awayTeam": "RUS", "gameId": 32, "result": null },
+  { "homeTeam": "ARA", "awayTeam": "EGI", "gameId": 33, "result": null },
+  { "homeTeam": "IRA", "awayTeam": "POR", "gameId": 34, "result": null },
+  { "homeTeam": "ESP", "awayTeam": "MAR", "gameId": 35, "result": null },
+  { "homeTeam": "DIN", "awayTeam": "FRA", "gameId": 36, "result": null },
+  { "homeTeam": "AUS", "awayTeam": "PER", "gameId": 37, "result": null },
+  { "homeTeam": "NIG", "awayTeam": "ARG", "gameId": 38, "result": null },
+  { "homeTeam": "ISL", "awayTeam": "CRO", "gameId": 39, "result": null },
+  { "homeTeam": "SER", "awayTeam": "BRA", "gameId": 40, "result": null },
+  { "homeTeam": "SUI", "awayTeam": "COS", "gameId": 41, "result": null },
+  { "homeTeam": "COR", "awayTeam": "ALE", "gameId": 42, "result": null },
+  { "homeTeam": "MEX", "awayTeam": "SUE", "gameId": 43, "result": null },
+  { "homeTeam": "ING", "awayTeam": "BEL", "gameId": 44, "result": null },
+  { "homeTeam": "PAN", "awayTeam": "TUN", "gameId": 45, "result": null },
+  { "homeTeam": "JAP", "awayTeam": "POL", "gameId": 46, "result": null },
+  { "homeTeam": "SEN", "awayTeam": "COL", "gameId": 47, "result": null }
+]
