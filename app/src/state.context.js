@@ -1,6 +1,7 @@
 import React from 'react';
 import playersData from './players';
 import gamesData from './games';
+import lastUpdateData from './last-update'
 
 const getPoints = (game, prediction) => {
   let points = 0;
@@ -26,7 +27,7 @@ const addPoints = (acc, [name, data]) => {
 
 const rankPlayers = (playerA, playerB) => {
   const getAllPoints = p => rankingData[p].reduce((a, b) =>
-    console.log(b) || (typeof b.points !== 'undefined' ? a + b.points : a),
+    (typeof b.points !== 'undefined' ? a + b.points : a),
     0
   );
   const aPoints = getAllPoints(playerA);
@@ -41,12 +42,12 @@ const rankingData = Object.entries(playersData).reduce(addPoints, {});
 
 const state = {
   games,
+  lastUpdate: new Date(lastUpdateData.lastUpdate * 1000).toLocaleDateString(undefined, { hour: '2-digit', minute: '2-digit'}),
   players: {
     list: Object.keys(rankingData).sort(rankPlayers),
     data: rankingData
   }
 };
-console.log(state);
 const Context = React.createContext(state);
 
 export const Consumer = Context.Consumer;

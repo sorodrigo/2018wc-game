@@ -13,8 +13,8 @@ class RankingPlayer extends React.PureComponent {
       1: '✅',
       3: '🏆'
     };
-    const resultsString = results.map(result => resultEmojis[result]);
-    const score = results.reduce((acc, next) => acc + next, 0);
+    const resultsString = results.map(result => resultEmojis[result.points]);
+    const score = results.reduce((acc, next) => acc + next.points, 0);
     return (
       <Row
         onMouseEnter={this.onMouseEnter}
@@ -25,7 +25,13 @@ class RankingPlayer extends React.PureComponent {
         <Container>
           <Position>{position}.</Position>
           <Name>{startCase(playerName)}</Name>
-          <Results>{resultsString}</Results>
+          <Results>
+            {results.map(item => (
+              <span title={`${item.result.home} - ${item.result.away}`}>
+                {resultEmojis[item.points]}
+              </span>
+            ))}
+          </Results>
           <CopyText visible={this.state.visible}>Copy to clipboard!</CopyText>
         </Container>
         <span>{score}</span>

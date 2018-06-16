@@ -59,8 +59,26 @@
       "value": 2
     }
   },
-  { "homeTeam": "ARG", "awayTeam": "ISL", "gameId": 6, "result": null },
-  { "homeTeam": "CRO", "awayTeam": "NIG", "gameId": 7, "result": null },
+  {
+    "homeTeam": "ARG",
+    "awayTeam": "ISL",
+    "gameId": 6,
+    "result": {
+      "home": 1,
+      "away": 1,
+      "value": 3
+    }
+  },
+  {
+    "homeTeam": "CRO",
+    "awayTeam": "NIG",
+    "gameId": 7,
+    "result": {
+      "home": 2,
+      "away": 0,
+      "value": 1
+    }
+  },
   { "homeTeam": "BRA", "awayTeam": "SUI", "gameId": 8, "result": null },
   { "homeTeam": "COS", "awayTeam": "SER", "gameId": 9, "result": null },
   { "homeTeam": "ALE", "awayTeam": "MEX", "gameId": 10, "result": null },

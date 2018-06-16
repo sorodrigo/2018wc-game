@@ -31,9 +31,8 @@ class Ranking extends React.PureComponent {
 }
 
 const RankingContainer = styled.ul`
-  width: 600px;
   list-style: none;
-  margin: 66px auto;
+  padding: 0;
 `;
 
 export default Ranking;

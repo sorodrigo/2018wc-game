@@ -8,7 +8,12 @@ class AppComponent extends React.Component {
     return (
       <Container>
         <Consumer>
-          {({ players }) => (<Ranking list={players.list} />)}
+          {({ players, lastUpdate }) => (
+            <Content>
+              <Ranking list={players.list} />
+              <LastUpdated>Last Updated: {lastUpdate}</LastUpdated>
+            </Content>
+          )}
         </Consumer>
       </Container>
     );
@@ -16,6 +21,19 @@ class AppComponent extends React.Component {
 }
 const Container = styled.div`
   height: 100%;
+  margin: 66px
 `;
 
+const Content = styled.div`
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  margin: 0 auto;
+`;
+
+const LastUpdated = styled.span`
+  text-align: right;
+  font-size: 12px;
+  color: rgba(52, 68, 76, 0.6);
+`;
 export default AppComponent;
