@@ -27,7 +27,10 @@ class RankingPlayer extends React.PureComponent {
           <Name>{startCase(playerName)}</Name>
           <Results>
             {results.map(item => (
-              <span title={`${item.result.home} - ${item.result.away}`}>
+              <span
+                key={item.gameId}
+                title={`${item.result.home} - ${item.result.away}`}
+              >
                 {resultEmojis[item.points]}
               </span>
             ))}

@@ -79,9 +79,36 @@
       "value": 1
     }
   },
-  { "homeTeam": "BRA", "awayTeam": "SUI", "gameId": 8, "result": null },
-  { "homeTeam": "COS", "awayTeam": "SER", "gameId": 9, "result": null },
-  { "homeTeam": "ALE", "awayTeam": "MEX", "gameId": 10, "result": null },
+  {
+    "homeTeam": "BRA",
+    "awayTeam": "SUI",
+    "gameId": 8,
+    "result": {
+      "home": 1,
+      "away": 1,
+      "value": 3
+    }
+  },
+  {
+    "homeTeam": "COS",
+    "awayTeam": "SER",
+    "gameId": 9,
+    "result": {
+      "home": 0,
+      "away": 1,
+      "value": 2
+    }
+  },
+  {
+    "homeTeam": "ALE",
+    "awayTeam": "MEX",
+    "gameId": 10,
+    "result": {
+      "home": 0,
+      "away": 1,
+      "value": 2
+    }
+  },
   { "homeTeam": "SUE", "awayTeam": "COR", "gameId": 11, "result": null },
   { "homeTeam": "BEL", "awayTeam": "PAN", "gameId": 12, "result": null },
   { "homeTeam": "TUN", "awayTeam": "ING", "gameId": 13, "result": null },
