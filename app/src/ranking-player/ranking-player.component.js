@@ -37,7 +37,7 @@ class RankingPlayer extends React.PureComponent {
           </Results>
           <CopyText visible={this.state.visible}>Copy to clipboard!</CopyText>
         </Container>
-        <span>{score}</span>
+        <Score>{score}</Score>
       </Row>
     );
   }
@@ -62,10 +62,16 @@ const Position = styled.span`
   width: 30px;
 `;
 const Name = styled.span`
-  color: #3444C;
+  color: #34444C;
   padding: 0 20px;
+  width: 175px;
+  display: flex;
+  justify-content: flex-start;
 `;
 const Results = styled.span`
+`;
+const Score = styled.span`
+  color: #34444C;
 `;
 const CopyText = styled.div`
   margin: 0 0 0 20px;

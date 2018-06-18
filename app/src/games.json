@@ -115,11 +115,20 @@
     "gameId": 11,
     "result": {
       "home": 1,
-	    "away": 0,
-	    "value": 1
+      "away": 0,
+      "value": 1
     }
   },
-  { "homeTeam": "BEL", "awayTeam": "PAN", "gameId": 12, "result": null },
+  {
+    "homeTeam": "BEL",
+    "awayTeam": "PAN",
+    "gameId": 12,
+    "result": {
+      "home": 3,
+      "away": 0,
+      "value": 1
+    }
+  },
   { "homeTeam": "TUN", "awayTeam": "ING", "gameId": 13, "result": null },
   { "homeTeam": "POL", "awayTeam": "SEN", "gameId": 14, "result": null },
   { "homeTeam": "COL", "awayTeam": "JAP", "gameId": 15, "result": null },
