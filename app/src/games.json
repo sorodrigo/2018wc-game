@@ -129,7 +129,16 @@
       "value": 1
     }
   },
-  { "homeTeam": "TUN", "awayTeam": "ING", "gameId": 13, "result": null },
+  {
+    "homeTeam": "TUN",
+    "awayTeam": "ING",
+    "gameId": 13,
+    "result": {
+      "home": 1,
+      "away": 2,
+      "value": 2
+    }
+  },
   { "homeTeam": "POL", "awayTeam": "SEN", "gameId": 14, "result": null },
   { "homeTeam": "COL", "awayTeam": "JAP", "gameId": 15, "result": null },
   { "homeTeam": "RUS", "awayTeam": "EGI", "gameId": 16, "result": null },

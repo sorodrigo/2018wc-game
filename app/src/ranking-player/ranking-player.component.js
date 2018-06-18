@@ -13,14 +13,14 @@ class RankingPlayer extends React.PureComponent {
       1: '✅',
       3: '🏆'
     };
-    const resultsString = results.map(result => resultEmojis[result.points]);
+    const resultsString = results.reduce((acc, res) => acc + resultEmojis[res.points], '');
     const score = results.reduce((acc, next) => acc + next.points, 0);
     return (
       <Row
         onMouseEnter={this.onMouseEnter}
         onMouseLeave={this.onMouseLeave}
         onClick={onClick}
-        data-clipboard={`${position}. ${startCase(playerName)} ${resultsString} ${score}`}
+        data-clipboard={`${resultsString} — ${score}`}
       >
         <Container>
           <Position>{position}.</Position>
@@ -50,6 +50,7 @@ const Row = styled.li`
   height: 32px;
   width: 100%;
   cursor: pointer;
+  padding: 0 32px;
 `;
 const Container = styled.div`
   display: flex;

@@ -21,7 +21,7 @@ class Ranking extends React.PureComponent {
           <RankingPlayer
             key={player}
             playerName={player}
-            position={index}
+            position={index + 1}
             onClick={this.onClickPlayer}
           />
         ))}
@@ -31,8 +31,11 @@ class Ranking extends React.PureComponent {
 }
 
 const RankingContainer = styled.ul`
+  width: 100%;
+  padding: 0 0 32px;
+  margin: 0;
+  background-color: white;
   list-style: none;
-  padding: 0;
 `;
 
 export default Ranking;

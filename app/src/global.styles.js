@@ -15,6 +15,10 @@ export default () => injectGlobal`
   }
   
   #root {
-    height: 100%;
+    height: 100%
+  }
+  
+  * {
+    box-sizing: border-box;
   }
 `
