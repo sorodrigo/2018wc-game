@@ -49,14 +49,17 @@ const Row = styled.li`
   justify-content: space-between;
   height: 32px;
   cursor: pointer;
-  padding: 0 32px;
+  padding: 0 16px;
+  
+  @media screen and (min-width: 730px) {
+    padding: 0 32px;
+  }
 `;
 const Container = styled.div`
   display: flex;
   align-items: center;
   justify-content: flex-start;
   height: 100%;
-  overflow: auto;
   margin-right: 20px;
 `;
 const Position = styled.span`

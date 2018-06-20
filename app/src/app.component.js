@@ -9,7 +9,7 @@ class AppComponent extends React.Component {
       <Container>
         <Consumer>
           {({ players, lastUpdate }) => (
-            <React.Fragment>
+            <Wrapper>
               <Content>
                 <Tabs>
                   <Tab active>Ranking</Tab>
@@ -18,7 +18,7 @@ class AppComponent extends React.Component {
                 <Ranking list={players.list} />
               </Content>
               <LastUpdated>Last Updated: {lastUpdate}</LastUpdated>
-            </React.Fragment>
+            </Wrapper>
           )}
         </Consumer>
       </Container>
@@ -26,18 +26,30 @@ class AppComponent extends React.Component {
   }
 }
 const Container = styled.div`
-  padding: 66px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: #f0f0f0;
+  height: 100%;
+`;
 
-  @media (max-width: 420px) {
-    padding: 0 0 20px 0;
+const Wrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: calc(100% - 22px);
+  overflow: hidden;
+  
+  @media screen and (min-width: 730px) {
+    width: calc(100% - 66px);
   }
 `;
 
 const Content = styled.div`
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
+  width: 100%
   box-shadow: 0 2px 10px rgba(0,0,0,.15);
 `;
 

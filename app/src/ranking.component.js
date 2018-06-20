@@ -32,10 +32,14 @@ class Ranking extends React.PureComponent {
 
 const RankingContainer = styled.ul`
   width: 100%;
-  padding: 0 0 32px;
+  padding: 0 0 22px;
   margin: 0;
   background-color: white;
   list-style: none;
+  
+  @media screen and (min-width: 730px) {
+    padding: 0 0 32px;
+  }
 `;
 
 export default Ranking;
