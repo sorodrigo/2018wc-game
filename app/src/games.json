@@ -169,8 +169,26 @@
       "value": 1
     }
   },
-  { "homeTeam": "URU", "awayTeam": "ARA", "gameId": 17, "result": null },
-  { "homeTeam": "POR", "awayTeam": "MAR", "gameId": 18, "result": null },
+  {
+    "homeTeam": "URU",
+    "awayTeam": "ARA",
+    "gameId": 17,
+    "result": {
+      "home": 1,
+      "away": 0,
+      "value": 1
+    }
+  },
+  {
+    "homeTeam": "POR",
+    "awayTeam": "MAR",
+    "gameId": 18,
+    "result": {
+      "home": 1,
+      "away": 0,
+      "value": 1
+    }
+  },
   { "homeTeam": "IRA", "awayTeam": "ESP", "gameId": 19, "result": null },
   { "homeTeam": "FRA", "awayTeam": "PER", "gameId": 20, "result": null },
   { "homeTeam": "DIN", "awayTeam": "AUS", "gameId": 21, "result": null },
