@@ -26,18 +26,19 @@ class AppComponent extends React.Component {
   }
 }
 const Container = styled.div`
-  padding: 66px
+  padding: 66px;
   background-color: #f0f0f0;
-  height: 100%;
+
+  @media (max-width: 420px) {
+    padding: 0 0 20px 0;
+  }
 `;
 
 const Content = styled.div`
   display: flex;
   flex-direction: column;
-  width: 100%;
   margin: 0 auto;
   box-shadow: 0 2px 10px rgba(0,0,0,.15);
-  overflow: auto;
 `;
 
 const Tabs = styled.nav`

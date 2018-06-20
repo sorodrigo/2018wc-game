@@ -48,7 +48,6 @@ const Row = styled.li`
   align-items: center;
   justify-content: space-between;
   height: 32px;
-  width: 100%;
   cursor: pointer;
   padding: 0 32px;
 `;
@@ -57,6 +56,8 @@ const Container = styled.div`
   align-items: center;
   justify-content: flex-start;
   height: 100%;
+  overflow: auto;
+  margin-right: 20px;
 `;
 const Position = styled.span`
   color: rgba(52, 68, 76, 0.6);
@@ -65,7 +66,7 @@ const Position = styled.span`
 const Name = styled.span`
   color: #34444C;
   padding: 0 20px;
-  width: 175px;
+  min-width: 175px;
   display: flex;
   justify-content: flex-start;
 `;
