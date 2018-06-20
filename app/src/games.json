@@ -139,9 +139,36 @@
       "value": 2
     }
   },
-  { "homeTeam": "POL", "awayTeam": "SEN", "gameId": 14, "result": null },
-  { "homeTeam": "COL", "awayTeam": "JAP", "gameId": 15, "result": null },
-  { "homeTeam": "RUS", "awayTeam": "EGI", "gameId": 16, "result": null },
+  {
+    "homeTeam": "POL",
+    "awayTeam": "SEN",
+    "gameId": 14,
+    "result": {
+      "home": 1,
+      "away": 2,
+      "value": 2
+    }
+  },
+  {
+    "homeTeam": "COL",
+    "awayTeam": "JAP",
+    "gameId": 15,
+    "result": {
+      "home": 1,
+      "away": 2,
+      "value": 2
+    }
+  },
+  {
+    "homeTeam": "RUS",
+    "awayTeam": "EGI",
+    "gameId": 16,
+    "result": {
+      "home": 3,
+      "away": 1,
+      "value": 1
+    }
+  },
   { "homeTeam": "URU", "awayTeam": "ARA", "gameId": 17, "result": null },
   { "homeTeam": "POR", "awayTeam": "MAR", "gameId": 18, "result": null },
   { "homeTeam": "IRA", "awayTeam": "ESP", "gameId": 19, "result": null },
