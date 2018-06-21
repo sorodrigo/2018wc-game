@@ -1,5 +1,5 @@
 import React from 'react';
-import { Consumer } from '../state.context';
+import { Consumer } from '../../state.context';
 import RankingPlayer from './ranking-player.component';
 
 export default class RankingPlayerContainer extends React.PureComponent {

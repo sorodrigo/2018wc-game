@@ -189,7 +189,16 @@
       "value": 1
     }
   },
-  { "homeTeam": "IRA", "awayTeam": "ESP", "gameId": 19, "result": null },
+  {
+    "homeTeam": "IRA",
+    "awayTeam": "ESP",
+    "gameId": 19,
+    "result": {
+      "home": 0,
+      "away": 1,
+      "value": 2
+    }
+  },
   { "homeTeam": "FRA", "awayTeam": "PER", "gameId": 20, "result": null },
   { "homeTeam": "DIN", "awayTeam": "AUS", "gameId": 21, "result": null },
   { "homeTeam": "ARG", "awayTeam": "CRO", "gameId": 22, "result": null },
