@@ -49,11 +49,17 @@ const Row = styled.li`
   padding: 0 ${p => p.theme.size.xsmall};
   height: 100px;
   margin: ${p => p.theme.size.xsmall} 0 0;
+  border-bottom: 1px solid ${p => p.theme.color.lightGray};
+  
+  &:last-child {
+    border: 0;
+  }
   
   @media screen and (min-width: ${p => p.theme.breakpoint.medium}) {
     padding: 0 ${p => p.theme.size.medium};
     height: ${p => p.theme.size.medium};
     margin: 0;
+    border: 0;
   }
 `;
 const Container = styled.div`
