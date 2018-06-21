@@ -10,7 +10,11 @@ export default class RankingPlayerContainer extends React.PureComponent {
       <Consumer>
         {({ players, games }) => {
           const playersData = players.data[playerName];
-          const results = games.map((game) => playersData[game.gameId]);
+          const results = games.map((game) => {
+            const data = playersData[game.gameId];
+            const { homeTeam, awayTeam } = game;
+            return { ...data, homeTeam, awayTeam }
+          });
           return (
             <RankingPlayer {...this.props} results={results} />
           )

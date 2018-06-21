@@ -11,7 +11,7 @@ class RankingPlayer extends React.PureComponent {
   onMouseLeave = () => this.setState({ visible: false });
   render() {
     const { Consumer: ResponsiveConsumer } = ResponsiveContext;
-    const { playerName, position, results, onClick, mobile } = this.props;
+    const { playerName, position, results, onClick } = this.props;
 
     const resultsString = results.reduce((acc, res) => acc + this.emojis[res.points], '');
     const score = results.reduce((acc, next) => acc + next.points, 0);
@@ -24,7 +24,6 @@ class RankingPlayer extends React.PureComponent {
             onClick={onClick}
             data-clipboard={`${resultsString} — ${score}`}
           >
-            {console.log(mobile)}
             <Container>
               <Position>{position}.</Position>
               <Name>{startCase(playerName)}</Name>

@@ -1,7 +1,7 @@
 [
   {
-    "homeTeam": "RUS",
-    "awayTeam": "ARA",
+    "homeTeam": "🇷🇺",
+    "awayTeam": "🇸🇦",
     "gameId": 0,
     "result": {
       "home": 5,
@@ -10,8 +10,8 @@
     }
   },
   {
-    "homeTeam": "EGI",
-    "awayTeam": "URU",
+    "homeTeam": "🇪🇬",
+    "awayTeam": "🇺🇾",
     "gameId": 1,
     "result": {
       "home": 0,
@@ -20,8 +20,8 @@
     }
   },
   {
-    "homeTeam": "POR",
-    "awayTeam": "ESP",
+    "homeTeam": "🇵🇹",
+    "awayTeam": "🇪🇸",
     "gameId": 2,
     "result": {
       "home": 3,
@@ -30,8 +30,8 @@
     }
   },
   {
-    "homeTeam": "MAR",
-    "awayTeam": "IRA",
+    "homeTeam": "🇲🇦",
+    "awayTeam": "🇮🇷",
     "gameId": 3,
     "result": {
       "home": 0,
@@ -40,8 +40,8 @@
     }
   },
   {
-    "homeTeam": "FRA",
-    "awayTeam": "AUS",
+    "homeTeam": "🇫🇷",
+    "awayTeam": "🇦🇺",
     "gameId": 4,
     "result": {
       "home": 2,
@@ -50,8 +50,8 @@
     }
   },
   {
-    "homeTeam": "PER",
-    "awayTeam": "DIN",
+    "homeTeam": "🇵🇪",
+    "awayTeam": "🇩🇰",
     "gameId": 5,
     "result": {
       "home": 0,
@@ -60,8 +60,8 @@
     }
   },
   {
-    "homeTeam": "ARG",
-    "awayTeam": "ISL",
+    "homeTeam": "🇦🇷",
+    "awayTeam": "🇮🇸",
     "gameId": 6,
     "result": {
       "home": 1,
@@ -70,8 +70,8 @@
     }
   },
   {
-    "homeTeam": "CRO",
-    "awayTeam": "NIG",
+    "homeTeam": "🇭🇷",
+    "awayTeam": "🇳🇬",
     "gameId": 7,
     "result": {
       "home": 2,
@@ -80,8 +80,8 @@
     }
   },
   {
-    "homeTeam": "BRA",
-    "awayTeam": "SUI",
+    "homeTeam": "🇧🇷",
+    "awayTeam": "🇨🇭",
     "gameId": 8,
     "result": {
       "home": 1,
@@ -90,8 +90,8 @@
     }
   },
   {
-    "homeTeam": "COS",
-    "awayTeam": "SER",
+    "homeTeam": "🇨🇷",
+    "awayTeam": "🇷🇸",
     "gameId": 9,
     "result": {
       "home": 0,
@@ -100,8 +100,8 @@
     }
   },
   {
-    "homeTeam": "ALE",
-    "awayTeam": "MEX",
+    "homeTeam": "🇩🇪",
+    "awayTeam": "🇲🇽",
     "gameId": 10,
     "result": {
       "home": 0,
@@ -110,8 +110,8 @@
     }
   },
   {
-    "homeTeam": "SUE",
-    "awayTeam": "COR",
+    "homeTeam": "🇸🇪",
+    "awayTeam": "🇰🇷",
     "gameId": 11,
     "result": {
       "home": 1,
@@ -120,8 +120,8 @@
     }
   },
   {
-    "homeTeam": "BEL",
-    "awayTeam": "PAN",
+    "homeTeam": "🇧🇪",
+    "awayTeam": "🇵🇦",
     "gameId": 12,
     "result": {
       "home": 3,
@@ -130,8 +130,8 @@
     }
   },
   {
-    "homeTeam": "TUN",
-    "awayTeam": "ING",
+    "homeTeam": "🇹🇳",
+    "awayTeam": "🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿",
     "gameId": 13,
     "result": {
       "home": 1,
@@ -140,8 +140,8 @@
     }
   },
   {
-    "homeTeam": "POL",
-    "awayTeam": "SEN",
+    "homeTeam": "🇵🇱",
+    "awayTeam": "🇸🇳",
     "gameId": 14,
     "result": {
       "home": 1,
@@ -150,8 +150,8 @@
     }
   },
   {
-    "homeTeam": "COL",
-    "awayTeam": "JAP",
+    "homeTeam": "🇨🇴",
+    "awayTeam": "🇯🇵",
     "gameId": 15,
     "result": {
       "home": 1,
@@ -160,8 +160,8 @@
     }
   },
   {
-    "homeTeam": "RUS",
-    "awayTeam": "EGI",
+    "homeTeam": "🇷🇺",
+    "awayTeam": "🇪🇬",
     "gameId": 16,
     "result": {
       "home": 3,
@@ -170,8 +170,8 @@
     }
   },
   {
-    "homeTeam": "URU",
-    "awayTeam": "ARA",
+    "homeTeam": "🇺🇾",
+    "awayTeam": "🇸🇦",
     "gameId": 17,
     "result": {
       "home": 1,
@@ -180,8 +180,8 @@
     }
   },
   {
-    "homeTeam": "POR",
-    "awayTeam": "MAR",
+    "homeTeam": "🇵🇹",
+    "awayTeam": "🇲🇦",
     "gameId": 18,
     "result": {
       "home": 1,
@@ -190,8 +190,8 @@
     }
   },
   {
-    "homeTeam": "IRA",
-    "awayTeam": "ESP",
+    "homeTeam": "🇮🇷",
+    "awayTeam": "🇪🇸",
     "gameId": 19,
     "result": {
       "home": 0,
@@ -200,8 +200,8 @@
     }
   },
   {
-    "homeTeam": "FRA",
-    "awayTeam": "PER",
+    "homeTeam": "🇫🇷",
+    "awayTeam": "🇵🇪",
     "gameId": 20,
     "result": {
       "home": 1,
@@ -210,8 +210,8 @@
     }
   },
   {
-    "homeTeam": "DIN",
-    "awayTeam": "AUS",
+    "homeTeam": "🇩🇰",
+    "awayTeam": "🇦🇺",
     "gameId": 21,
     "result": {
       "home": 1,
@@ -219,30 +219,39 @@
       "value": 3
     }
   },
-  { "homeTeam": "ARG", "awayTeam": "CRO", "gameId": 22, "result": null },
-  { "homeTeam": "NIG", "awayTeam": "ISL", "gameId": 23, "result": null },
-  { "homeTeam": "BRA", "awayTeam": "COS", "gameId": 24, "result": null },
-  { "homeTeam": "SER", "awayTeam": "SUI", "gameId": 25, "result": null },
-  { "homeTeam": "ALE", "awayTeam": "SUE", "gameId": 26, "result": null },
-  { "homeTeam": "COR", "awayTeam": "MEX", "gameId": 27, "result": null },
-  { "homeTeam": "BEL", "awayTeam": "TUN", "gameId": 28, "result": null },
-  { "homeTeam": "ING", "awayTeam": "PAN", "gameId": 29, "result": null },
-  { "homeTeam": "POL", "awayTeam": "COL", "gameId": 30, "result": null },
-  { "homeTeam": "JAP", "awayTeam": "SEN", "gameId": 31, "result": null },
-  { "homeTeam": "URU", "awayTeam": "RUS", "gameId": 32, "result": null },
-  { "homeTeam": "ARA", "awayTeam": "EGI", "gameId": 33, "result": null },
-  { "homeTeam": "IRA", "awayTeam": "POR", "gameId": 34, "result": null },
-  { "homeTeam": "ESP", "awayTeam": "MAR", "gameId": 35, "result": null },
-  { "homeTeam": "DIN", "awayTeam": "FRA", "gameId": 36, "result": null },
-  { "homeTeam": "AUS", "awayTeam": "PER", "gameId": 37, "result": null },
-  { "homeTeam": "NIG", "awayTeam": "ARG", "gameId": 38, "result": null },
-  { "homeTeam": "ISL", "awayTeam": "CRO", "gameId": 39, "result": null },
-  { "homeTeam": "SER", "awayTeam": "BRA", "gameId": 40, "result": null },
-  { "homeTeam": "SUI", "awayTeam": "COS", "gameId": 41, "result": null },
-  { "homeTeam": "COR", "awayTeam": "ALE", "gameId": 42, "result": null },
-  { "homeTeam": "MEX", "awayTeam": "SUE", "gameId": 43, "result": null },
-  { "homeTeam": "ING", "awayTeam": "BEL", "gameId": 44, "result": null },
-  { "homeTeam": "PAN", "awayTeam": "TUN", "gameId": 45, "result": null },
-  { "homeTeam": "JAP", "awayTeam": "POL", "gameId": 46, "result": null },
-  { "homeTeam": "SEN", "awayTeam": "COL", "gameId": 47, "result": null }
+  {
+    "homeTeam": "🇦🇷",
+    "awayTeam": "🇭🇷",
+    "gameId": 22,
+    "result": {
+      "home": 0,
+      "away": 3,
+      "value": 2
+    }
+  },
+  { "homeTeam": "🇳🇬", "awayTeam": "🇮🇸", "gameId": 23, "result": null },
+  { "homeTeam": "🇧🇷", "awayTeam": "🇨🇷", "gameId": 24, "result": null },
+  { "homeTeam": "🇷🇸", "awayTeam": "🇨🇭", "gameId": 25, "result": null },
+  { "homeTeam": "🇩🇪", "awayTeam": "🇸🇪", "gameId": 26, "result": null },
+  { "homeTeam": "🇰🇷", "awayTeam": "🇲🇽", "gameId": 27, "result": null },
+  { "homeTeam": "🇧🇪", "awayTeam": "🇹🇳", "gameId": 28, "result": null },
+  { "homeTeam": "🏴", "awayTeam": "🇵🇦", "gameId": 29, "result": null },
+  { "homeTeam": "🇵🇱", "awayTeam": "🇨🇴", "gameId": 30, "result": null },
+  { "homeTeam": "🇯🇵", "awayTeam": "🇸🇳", "gameId": 31, "result": null },
+  { "homeTeam": "🇺🇾", "awayTeam": "🇷🇺", "gameId": 32, "result": null },
+  { "homeTeam": "🇸🇦", "awayTeam": "🇪🇬", "gameId": 33, "result": null },
+  { "homeTeam": "🇮🇷", "awayTeam": "🇵🇹", "gameId": 34, "result": null },
+  { "homeTeam": "🇪🇸", "awayTeam": "🇲🇦", "gameId": 35, "result": null },
+  { "homeTeam": "🇩🇰", "awayTeam": "🇫🇷", "gameId": 36, "result": null },
+  { "homeTeam": "🇦🇺", "awayTeam": "🇵🇪", "gameId": 37, "result": null },
+  { "homeTeam": "🇳🇬", "awayTeam": "🇦🇷", "gameId": 38, "result": null },
+  { "homeTeam": "🇮🇸", "awayTeam": "🇭🇷", "gameId": 39, "result": null },
+  { "homeTeam": "🇷🇸", "awayTeam": "🇧🇷", "gameId": 40, "result": null },
+  { "homeTeam": "🇨🇭", "awayTeam": "🇨🇷", "gameId": 41, "result": null },
+  { "homeTeam": "🇰🇷", "awayTeam": "🇩🇪", "gameId": 42, "result": null },
+  { "homeTeam": "🇲🇽", "awayTeam": "🇸🇪", "gameId": 43, "result": null },
+  { "homeTeam": "🏴", "awayTeam": "🇧🇪", "gameId": 44, "result": null },
+  { "homeTeam": "🇵🇦", "awayTeam": "🇹🇳", "gameId": 45, "result": null },
+  { "homeTeam": "🇯🇵", "awayTeam": "🇵🇱", "gameId": 46, "result": null },
+  { "homeTeam": "🇸🇳", "awayTeam": "🇨🇴", "gameId": 47, "result": null }
 ]

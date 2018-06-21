@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import Popup from 'reactjs-popup';
 import { ResponsiveContext } from './app.component';
 
 class EmojiResults extends React.PureComponent {
@@ -9,12 +10,14 @@ class EmojiResults extends React.PureComponent {
     return (
       <React.Fragment>
         {results.map(item => (
-          <span
+          <Popup
             key={item.gameId}
-            title={`${item.result.home} - ${item.result.away}`}
+            trigger={<span>{emojis[item.points]}</span>}
+            position="top center"
+            on="hover"
           >
-            {emojis[item.points]}
-          </span>
+            <span>{item.homeTeam} {item.result.home} - {item.result.away} {item.awayTeam}</span>
+          </Popup>
         ))}
       </React.Fragment>
     )

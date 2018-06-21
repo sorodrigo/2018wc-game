@@ -17,6 +17,12 @@ export default () => injectGlobal`
   #root {
     height: 100%
   }
+  
+  .popup-content {
+    width: auto !important;
+    border: 0 !important;
+    box-shadow: 0 2px 10px rgba(0,0,0,.15);
+  }
 
   * {
     box-sizing: border-box;
