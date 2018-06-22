@@ -2,6 +2,7 @@
   "name": "wc-game",
   "version": "0.1.0",
   "private": true,
+  "alias": "wc-game",
   "dependencies": {
     "lodash-es": "^4.17.10",
     "react": "^16.4.1",

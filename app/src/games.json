@@ -229,9 +229,36 @@
       "value": 2
     }
   },
-  { "homeTeam": "🇳🇬", "awayTeam": "🇮🇸", "gameId": 23, "result": null },
-  { "homeTeam": "🇧🇷", "awayTeam": "🇨🇷", "gameId": 24, "result": null },
-  { "homeTeam": "🇷🇸", "awayTeam": "🇨🇭", "gameId": 25, "result": null },
+  {
+    "homeTeam": "🇳🇬",
+    "awayTeam": "🇮🇸",
+    "gameId": 23,
+    "result": {
+      "home": 2,
+      "away": 0,
+      "value": 1
+    }
+  },
+  {
+    "homeTeam": "🇧🇷",
+    "awayTeam": "🇨🇷",
+    "gameId": 24,
+    "result": {
+      "home": 2,
+      "away": 0,
+      "value": 1
+    }
+  },
+  {
+    "homeTeam": "🇷🇸",
+    "awayTeam": "🇨🇭",
+    "gameId": 25,
+    "result": {
+      "home": 1,
+      "away": 2,
+      "value": 2
+    }
+  },
   { "homeTeam": "🇩🇪", "awayTeam": "🇸🇪", "gameId": 26, "result": null },
   { "homeTeam": "🇰🇷", "awayTeam": "🇲🇽", "gameId": 27, "result": null },
   { "homeTeam": "🇧🇪", "awayTeam": "🇹🇳", "gameId": 28, "result": null },
