@@ -1,7 +1,7 @@
 import React from 'react';
 import styled, { ThemeProvider } from 'styled-components';
+import State, { Consumer } from './state.component';
 import Ranking from './ranking.component';
-import { Consumer } from '../state.context';
 import { debounce } from 'lodash-es';
 
 export const ResponsiveContext = React.createContext();
@@ -42,26 +42,31 @@ class AppComponent extends React.Component {
   render() {
     const { Provider: ResponsiveProvider } = ResponsiveContext;
     return (
-      <ThemeProvider theme={this.theme}>
-        <ResponsiveProvider value={this.state.mobile}>
-          <Container>
-            <Consumer>
-              {({ players, lastUpdate }) => (
-                <Wrapper>
-                  <Content>
-                    <Tabs>
-                      <Tab active>Ranking</Tab>
-                      <Tab onClick={() => alert('coming soon!')}>Games</Tab>
-                    </Tabs>
-                    <Ranking list={players.list} />
-                  </Content>
-                  <LastUpdated>Last Updated: {lastUpdate}</LastUpdated>
-                </Wrapper>
-              )}
-            </Consumer>
-          </Container>
-        </ResponsiveProvider>
-      </ThemeProvider>
+      <State>
+        <ThemeProvider theme={this.theme}>
+          <ResponsiveProvider value={this.state.mobile}>
+            <Container>
+              <Consumer>
+                {({ players, lastUpdate, version }) => (
+                  <Wrapper>
+                    <Content>
+                      <Tabs>
+                        <Tab active>Ranking</Tab>
+                        <Tab onClick={() => alert('coming soon!')}>Games</Tab>
+                      </Tabs>
+                      <Ranking list={players.list} />
+                    </Content>
+                    <Footer>
+                      <FooterText>Version: {version}</FooterText>
+                      <FooterText>Last Updated: {lastUpdate}</FooterText>
+                    </Footer>
+                  </Wrapper>
+                )}
+              </Consumer>
+            </Container>
+          </ResponsiveProvider>
+        </ThemeProvider>
+      </State>
     );
   }
 }
@@ -113,24 +118,30 @@ const Tab = styled.button`
   cursor: pointer;
   border: 0;
   min-height: 34px
+  color: ${p => p.theme.color.charcoal};
   
   &:last-child {
     margin: 0 0 0 ${p => p.theme.size.xsmall};
   }
 `;
 
-const LastUpdated = styled.p`
+const Footer = styled.div`
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
   height: ${p => p.theme.size.xsmall};
   width: 100%;
   margin: 16px 0 0;
-  font-size: 12px;
-  color: ${p => p.charcoalFaded};
   
   @media screen and (min-width: ${p => p.theme.breakpoint.medium}) {
     height: ${p => p.theme.size.medium};
   }
+`;
+
+const FooterText = styled.p`
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  color: ${p => p.theme.color.charcoalFaded};
 `;
 export default AppComponent;
