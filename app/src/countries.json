@@ -1,0 +1,226 @@
+{
+  "KOR": {
+    "country": "Korea Republic",
+    "fifa_code": "KOR",
+    "group_id": 6,
+    "group_letter": "F",
+    "emoji": "🇰🇷"
+  },
+  "MEX": {
+    "country": "Mexico",
+    "fifa_code": "MEX",
+    "group_id": 6,
+    "group_letter": "F",
+    "emoji": "🇲🇽"
+  },
+  "COL": {
+    "country": "Colombia",
+    "fifa_code": "COL",
+    "group_id": 8,
+    "group_letter": "H",
+    "emoji": "🇨🇴"
+  },
+  "POL": {
+    "country": "Poland",
+    "fifa_code": "POL",
+    "group_id": 8,
+    "group_letter": "H",
+    "emoji": "🇵🇱"
+  },
+  "RUS": {
+    "country": "Russia",
+    "fifa_code": "RUS",
+    "group_id": 1,
+    "group_letter": "A",
+    "emoji": "🇷🇺"
+  },
+  "EGY": {
+    "country": "Egypt",
+    "fifa_code": "EGY",
+    "group_id": 1,
+    "group_letter": "A",
+    "emoji": "🇪🇬"
+  },
+  "POR": {
+    "country": "Portugal",
+    "fifa_code": "POR",
+    "group_id": 2,
+    "group_letter": "B",
+    "emoji": "🇵🇹"
+  },
+  "MAR": {
+    "country": "Morocco",
+    "fifa_code": "MAR",
+    "group_id": 2,
+    "group_letter": "B",
+    "emoji": "🇲🇦"
+  },
+  "URU": {
+    "country": "Uruguay",
+    "fifa_code": "URU",
+    "group_id": 1,
+    "group_letter": "A",
+    "emoji": "🇺🇾"
+  },
+  "KSA": {
+    "country": "Saudi Arabia",
+    "fifa_code": "KSA",
+    "group_id": 1,
+    "group_letter": "A",
+    "emoji": "🇸🇦"
+  },
+  "IRN": {
+    "country": "Iran",
+    "fifa_code": "IRN",
+    "group_id": 2,
+    "group_letter": "B",
+    "emoji": "🇮🇷"
+  },
+  "ESP": {
+    "country": "Spain",
+    "fifa_code": "ESP",
+    "group_id": 2,
+    "group_letter": "B",
+    "emoji": "🇪🇸"
+  },
+  "DEN": {
+    "country": "Denmark",
+    "fifa_code": "DEN",
+    "group_id": 3,
+    "group_letter": "C",
+    "emoji": "🇩🇰"
+  },
+  "AUS": {
+    "country": "Australia",
+    "fifa_code": "AUS",
+    "group_id": 3,
+    "group_letter": "C",
+    "emoji": "🇦🇺"
+  },
+  "FRA": {
+    "country": "France",
+    "fifa_code": "FRA",
+    "group_id": 3,
+    "group_letter": "C",
+    "emoji": "🇫🇷"
+  },
+  "PER": {
+    "country": "Peru",
+    "fifa_code": "PER",
+    "group_id": 3,
+    "group_letter": "C",
+    "emoji": "🇵🇪"
+  },
+  "ARG": {
+    "country": "Argentina",
+    "fifa_code": "ARG",
+    "group_id": 4,
+    "group_letter": "D",
+    "emoji": "🇦🇷"
+  },
+  "CRO": {
+    "country": "Croatia",
+    "fifa_code": "CRO",
+    "group_id": 4,
+    "group_letter": "D",
+    "emoji": "🇭🇷"
+  },
+  "BRA": {
+    "country": "Brazil",
+    "fifa_code": "BRA",
+    "group_id": 5,
+    "group_letter": "E",
+    "emoji": "🇧🇷"
+  },
+  "CRC": {
+    "country": "Costa Rica",
+    "fifa_code": "CRC",
+    "group_id": 5,
+    "group_letter": "E",
+    "emoji": "🇨🇷"
+  },
+  "NGA": {
+    "country": "Nigeria",
+    "fifa_code": "NGA",
+    "group_id": 4,
+    "group_letter": "D",
+    "emoji": "🇳🇬"
+  },
+  "ISL": {
+    "country": "Iceland",
+    "fifa_code": "ISL",
+    "group_id": 4,
+    "group_letter": "D",
+    "emoji": "🇮🇸"
+  },
+  "SRB": {
+    "country": "Serbia",
+    "fifa_code": "SRB",
+    "group_id": 5,
+    "group_letter": "E",
+    "emoji": "🇷🇸"
+  },
+  "SUI": {
+    "country": "Switzerland",
+    "fifa_code": "SUI",
+    "group_id": 5,
+    "group_letter": "E",
+    "emoji": "🇨🇭"
+  },
+  "BEL": {
+    "country": "Belgium",
+    "fifa_code": "BEL",
+    "group_id": 7,
+    "group_letter": "G",
+    "emoji": "🇧🇪"
+  },
+  "TUN": {
+    "country": "Tunisia",
+    "fifa_code": "TUN",
+    "group_id": 7,
+    "group_letter": "G",
+    "emoji": "🇹🇳"
+  },
+  "GER": {
+    "country": "Germany",
+    "fifa_code": "GER",
+    "group_id": 6,
+    "group_letter": "F",
+    "emoji": "🇩🇪"
+  },
+  "SWE": {
+    "country": "Sweden",
+    "fifa_code": "SWE",
+    "group_id": 6,
+    "group_letter": "F",
+    "emoji": "🇸🇪"
+  },
+  "ENG": {
+    "country": "England",
+    "fifa_code": "ENG",
+    "group_id": 7,
+    "group_letter": "G",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  "PAN": {
+    "country": "Panama",
+    "fifa_code": "PAN",
+    "group_id": 7,
+    "group_letter": "G",
+    "emoji": "🇵🇦"
+  },
+  "JPN": {
+    "country": "Japan",
+    "fifa_code": "JPN",
+    "group_id": 8,
+    "group_letter": "H",
+    "emoji": "🇯🇵"
+  },
+  "SEN": {
+    "country": "Senegal",
+    "fifa_code": "SEN",
+    "group_id": 8,
+    "group_letter": "H",
+    "emoji": "🇸🇳"
+  }
+}

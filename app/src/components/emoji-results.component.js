@@ -11,12 +11,12 @@ class EmojiResults extends React.PureComponent {
       <React.Fragment>
         {results.map(item => (
           <Popup
-            key={item.gameId}
-            trigger={<span>{emojis[item.points]}</span>}
+            key={item.fifa_id}
+            trigger={<EmojiList status={item.status}>{emojis[item.points]}</EmojiList>}
             position="top center"
             on="hover"
           >
-            <span>{item.homeTeam} {item.result.home} - {item.result.away} {item.awayTeam}</span>
+            <span>{item.homeFlag} {item.home} - {item.away} {item.awayFlag}</span>
           </Popup>
         ))}
       </React.Fragment>
@@ -31,8 +31,8 @@ class EmojiResults extends React.PureComponent {
     ));
     return (
       <SummaryContainer>
-        {summary.map(([points, times]) => (
-          <EmojiSummary key={points}>{emojis[points]}x{times}</EmojiSummary>
+        {summary.map(([points, times], i) => (
+          <EmojiSummary key={points} status={results[i].status}>{emojis[points]}x{times}</EmojiSummary>
         ))}
       </SummaryContainer>
     );
@@ -49,6 +49,9 @@ class EmojiResults extends React.PureComponent {
   }
 }
 
+const EmojiList = styled.span`
+  opacity: ${p => p.status === 'in progress' ? 0.25 : 1};
+`;
 const SummaryContainer = styled.div`
   display: flex;
   flex-direction: column;
@@ -56,6 +59,7 @@ const SummaryContainer = styled.div`
 `;
 const EmojiSummary = styled.span`
   margin: 0 0 ${p => p.theme.size.xsmall};
+  opacity: ${p => p.status === 'in progress' ? 0.25 : 1};
   
   &:last-child {
     margin: 0
