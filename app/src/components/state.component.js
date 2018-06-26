@@ -6,18 +6,19 @@ import { version } from '../../package.json';
 const Context = React.createContext();
 
 class State extends React.PureComponent {
-  static getWinner(prediction, game) {
-    if (prediction.home > prediction.away) return game.home_team.code;
-    if (prediction.away > prediction.home) return game.away_team.code;
-    if (prediction.home === prediction.away) return 'Draw';
+  static getWinner(home, away) {
+    if (home > away) return 'HOME';
+    if (away > home) return 'AWAY';
+    if (home === away) return 'DRAW';
   }
 
   getPoints(game, prediction) {
     if (typeof game === 'undefined') return;
+    const { home_team, away_team } = game;
     let points = 0;
-    if (State.getWinner(prediction, game) === game.winner_code) {
+    if (State.getWinner(prediction.home, prediction.away) === State.getWinner(home_team.goals, away_team.goals)) {
       points = 1;
-      if (game.home_team.goals === prediction.home && game.away_team.goals === prediction.away) {
+      if (home_team.goals === prediction.home && away_team.goals === prediction.away) {
         points += 2;
       }
     }
