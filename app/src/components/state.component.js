@@ -29,6 +29,7 @@ class State extends React.PureComponent {
     return {
       ...players,
       [name]: Object.entries(data)
+        .filter(([fifa_id]) => games[fifa_id].status !== 'future')
         .reduce((acc, [fifa_id, result]) => ({
           ...acc,
           [fifa_id]: { ...result, points: this.getPoints(games[fifa_id], result) }
