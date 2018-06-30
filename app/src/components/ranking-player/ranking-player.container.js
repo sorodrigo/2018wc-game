@@ -8,11 +8,11 @@ export default class RankingPlayerContainer extends React.PureComponent {
     const { playerName } = this.props;
     return (
       <Consumer>
-        {({ players, games, countries }) => {
+        {({ players, groupStage, countries }) => {
           const plays = players.data[playerName];
-          const results = games.list.filter(fifa_id => games.data[fifa_id].status !== 'future')
+          const results = groupStage.list.filter(fifa_id => groupStage.data[fifa_id].status !== 'future')
             .map((fifa_id) => {
-              const game = games.data[fifa_id];
+              const game = groupStage.data[fifa_id];
               const play = plays[fifa_id];
               const { home_team, away_team, status } = game;
               const homeFlag = countries[home_team.code].emoji;

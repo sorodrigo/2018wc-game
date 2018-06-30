@@ -51,8 +51,8 @@ class AppComponent extends React.Component {
                   <Wrapper>
                     <Content>
                       <Tabs>
-                        <Tab active>Ranking</Tab>
-                        <Tab onClick={() => alert('coming soon!')}>Games</Tab>
+                        <Tab active>Group Stage</Tab>
+                        <Tab onClick={() => alert('coming soon!')}>KOs</Tab>
                       </Tabs>
                       <Ranking list={players.list} />
                     </Content>

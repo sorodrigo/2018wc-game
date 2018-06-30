@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import { startCase } from 'lodash-es';
 import EmojiResults from '../emoji-results.component';
 import { ResponsiveContext } from '../app.component';
+import Modal from '../results-modal.component';
 
 class RankingPlayer extends React.PureComponent {
   state = { visible: false };
@@ -11,29 +12,31 @@ class RankingPlayer extends React.PureComponent {
   onMouseLeave = () => this.setState({ visible: false });
   render() {
     const { Consumer: ResponsiveConsumer } = ResponsiveContext;
-    const { playerName, position, results, onClick } = this.props;
+    const { playerName, position, results } = this.props;
 
-    const resultsString = results.reduce((acc, res) => acc + this.emojis[res.points], '');
+
     const score = results.reduce((acc, next) => acc + next.points, 0);
     return (
       <ResponsiveConsumer>
         {(mobile) => (
-          <Row
-            onMouseEnter={this.onMouseEnter}
-            onMouseLeave={this.onMouseLeave}
-            onClick={onClick}
-            data-clipboard={`${resultsString} — ${score}`}
-          >
-            <Container>
-              <Position>{position}.</Position>
-              <Name>{startCase(playerName)}</Name>
-              <EmojiResults results={results} emojis={this.emojis} />
-              {mobile === false &&
-                <CopyText visible={this.state.visible}>Copy to clipboard!</CopyText>
-              }
-            </Container>
-            <Score>{score}</Score>
-          </Row>
+          <Modal results={results} emojis={this.emojis} mobile={mobile}>
+            <Row
+              onMouseEnter={this.onMouseEnter}
+              onMouseLeave={this.onMouseLeave}
+            >
+              <Container>
+                <Position>{position}.</Position>
+                <Name>{startCase(playerName)}</Name>
+                <EmojiResults results={results} emojis={this.emojis} />
+                {mobile === false &&
+                  <CopyText visible={this.state.visible}>
+                    Check results!
+                  </CopyText>
+                }
+              </Container>
+              <Score>{score}</Score>
+            </Row>
+          </Modal>
         )}
       </ResponsiveConsumer>
     );

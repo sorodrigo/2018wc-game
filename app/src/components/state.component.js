@@ -4,6 +4,7 @@ import playersData from '../players';
 import { version } from '../../package.json';
 
 const Context = React.createContext();
+const LAST_GROUP_STAGE_MATCH = 47;
 
 class State extends React.PureComponent {
   static getWinner(home, away) {
@@ -25,14 +26,14 @@ class State extends React.PureComponent {
     return points;
   };
 
-  addPoints = games => (players, [name, data]) => {
+  addPoints = groupStage => (players, [name, data]) => {
     return {
       ...players,
       [name]: Object.entries(data)
-        .filter(([fifa_id]) => games[fifa_id].status !== 'future')
+        .filter(([fifa_id]) => groupStage[fifa_id].status !== 'future')
         .reduce((acc, [fifa_id, result]) => ({
           ...acc,
-          [fifa_id]: { ...result, points: this.getPoints(games[fifa_id], result) }
+          [fifa_id]: { ...result, points: this.getPoints(groupStage[fifa_id], result) }
         }), {})
     };
   };
@@ -52,7 +53,8 @@ class State extends React.PureComponent {
   componentDidMount() {
     fetch('https://worldcup.sfg.io/matches')
       .then(res => (res.ok ? res.json() : Promise.reject(res.statusText)))
-      .then(json => {
+      .then(res => {
+        const json = res.filter((v, i) => i <= LAST_GROUP_STAGE_MATCH);
         const list = json.map(row => row.fifa_id);
         const data = json.reduce((acc, next) => ({ ...acc, [next.fifa_id]: next }), {});
         return this.setPlayersState({ list, data });
@@ -60,18 +62,18 @@ class State extends React.PureComponent {
       .catch(err => console.error(err));
   }
 
-  setPlayersState(games) {
-    const data = Object.entries(playersData).reduce(this.addPoints(games.data), {});
+  setPlayersState(groupStage) {
+    const data = Object.entries(playersData).reduce(this.addPoints(groupStage.data), {});
     const players = {
       data,
       list: Object.keys(data).sort(this.rankPlayers(data))
     };
-    this.setState({ games, players });
+    this.setState({ groupStage, players });
   }
 
   state = {
     version,
-    games: {},
+    groupStage: {},
     players: {
       list: [],
       data: []
