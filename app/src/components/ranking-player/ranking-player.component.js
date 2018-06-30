@@ -6,37 +6,46 @@ import { ResponsiveContext } from '../app.component';
 import Modal from '../results-modal.component';
 
 class RankingPlayer extends React.PureComponent {
-  state = { visible: false };
+  state = { visible: false, modalOpen: false };
   emojis = { 0: '❌', 1: '✅', 3: '🏆' };
   onMouseEnter = () => this.setState({ visible: true });
   onMouseLeave = () => this.setState({ visible: false });
+  openModal = () => this.setState({ modalOpen: true });
+  closeModal = () => this.setState({ modalOpen: false });
   render() {
     const { Consumer: ResponsiveConsumer } = ResponsiveContext;
     const { playerName, position, results } = this.props;
-
 
     const score = results.reduce((acc, next) => acc + next.points, 0);
     return (
       <ResponsiveConsumer>
         {(mobile) => (
-          <Modal results={results} emojis={this.emojis} mobile={mobile}>
-            <Row
-              onMouseEnter={this.onMouseEnter}
-              onMouseLeave={this.onMouseLeave}
-            >
-              <Container>
-                <Position>{position}.</Position>
-                <Name>{startCase(playerName)}</Name>
-                <EmojiResults results={results} emojis={this.emojis} />
-                {mobile === false &&
+          <React.Fragment>
+            <Modal
+              open={this.state.modalOpen}
+              results={results}
+              emojis={this.emojis}
+              mobile={mobile}
+              close={this.closeModal}
+            />
+              <Row
+                onMouseEnter={this.onMouseEnter}
+                onMouseLeave={this.onMouseLeave}
+                onClick={this.openModal}
+              >
+                <Container>
+                  <Position>{position}.</Position>
+                  <Name>{startCase(playerName)}</Name>
+                  <EmojiResults results={results} emojis={this.emojis} />
+                  {mobile === false &&
                   <CopyText visible={this.state.visible}>
                     Check results!
                   </CopyText>
-                }
-              </Container>
-              <Score>{score}</Score>
-            </Row>
-          </Modal>
+                  }
+                </Container>
+                <Score>{score}</Score>
+              </Row>
+          </React.Fragment>
         )}
       </ResponsiveConsumer>
     );

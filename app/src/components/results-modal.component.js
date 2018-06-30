@@ -1,18 +1,16 @@
 import React from 'react';
 import styled, { withTheme } from 'styled-components';
-import PopUp from 'reactjs-popup';
+import ReactDOM from 'react-dom';
 
 class ResultsModal extends React.PureComponent {
-  modalStyle = {
-    mobile: {
-      width: 'auto',
-      margin: this.props.theme.size.xsmall
-    },
-    desktop: {
-      margin: `${this.props.theme.size.xsmall} auto`
-    }
-  };
-
+  root = document.getElementById('modal');
+  el =  document.createElement('div');
+  componentDidMount () {
+    this.root.appendChild(this.el)
+  }
+  componentWillUnmount () {
+    this.root.removeChild(this.el)
+  }
   copyToClipboard(e) {
     const text = e.currentTarget.dataset.clipboard;
     const input = document.createElement('input');
@@ -24,18 +22,11 @@ class ResultsModal extends React.PureComponent {
   }
 
   render() {
-    const { children, results, emojis, mobile } = this.props;
+    const { results, emojis, open, close } = this.props;
     const resultsString = results.reduce((acc, item) => acc + emojis[item.points], '');
-    const styles = mobile ? this.modalStyle.mobile : this.modalStyle.desktop;
-    return (
-      <PopUp
-        modal
-        lockScroll
-        closeOnDocumentClick
-        contentStyle={styles}
-        trigger={children}
-      >
-        {close => (
+    const content = (
+      <ModalOverlay onClick={close}>
+        <ModalBox>
           <Container>
             <Header>
               <Button onClick={close}>Close</Button>
@@ -54,11 +45,37 @@ class ResultsModal extends React.PureComponent {
               </Button>
             </Footer>
           </Container>
-        )}
-      </PopUp>
+        </ModalBox>
+      </ModalOverlay>
     );
+    return open ? ReactDOM.createPortal(content, this.el) : null;
   }
 }
+
+const ModalOverlay = styled.div`
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    z-index: 999;
+`;
+
+const ModalBox = styled.div`
+    position: relative;
+    background: rgb(255, 255, 255);
+    width: auto;
+    margin: 16px;
+    padding: 5px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.15);
+    
+    @media screen and (min-width: ${p => p.theme.breakpoint.medium}) {
+      width: 50%;
+      margin: 16px auto;
+    }
+`;
 
 const Container = styled.div`
   display: flex;
@@ -93,6 +110,7 @@ const Content = styled.div`
   align-items: center;
   overflow: auto;
   padding: 8px 0 0 0;
+  -webkit-overflow-scrolling: touch;
 `;
 
 const Item = styled.div`
