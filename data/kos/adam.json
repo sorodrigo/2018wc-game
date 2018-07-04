@@ -1,0 +1,104 @@
+[
+  {
+    "bracket": "OA",
+    "team1": "URU",
+    "score": "2-1",
+    "team2": "PORTUGAL"
+  },
+  {
+    "bracket": "OB",
+    "team1": "FRA",
+    "score": "2-1",
+    "team2": "ARGENTINA"
+  },
+  {
+    "bracket": "OC",
+    "team1": "BRA",
+    "score": "0-1",
+    "team2": "MEX"
+  },
+  {
+    "bracket": "OD",
+    "team1": "BEL",
+    "score": "3-0",
+    "team2": "JAPAN"
+  },
+  {
+    "bracket": "OE",
+    "team1": "RUSSIA",
+    "score": "1-3",
+    "team2": "SPAIN"
+  },
+  {
+    "bracket": "OF",
+    "team1": "DENMARK",
+    "score": "0-2",
+    "team2": "CRO"
+  },
+  {
+    "bracket": "OG",
+    "team1": "SUI",
+    "score": "2-1",
+    "team2": "SWEDEN"
+  },
+  {
+    "bracket": "OH",
+    "team1": "ENG",
+    "score": "3-1",
+    "team2": "COLOMBIA"
+  },
+  {
+    "bracket": "QA",
+    "team1": "URU",
+    "score": "2-0",
+    "team2": "FRA"
+  },
+  {
+    "bracket": "QB",
+    "team1": "MEX",
+    "score": "0-2",
+    "team2": "BEL"
+  },
+  {
+    "bracket": "QC",
+    "team1": "SPAIN",
+    "score": "2-3",
+    "team2": "CRO"
+  },
+  {
+    "bracket": "QD",
+    "team1": "SUI",
+    "score": "2-2",
+    "team2": "ENG"
+  },
+  {
+    "bracket": "SA",
+    "team1": "URU",
+    "score": "2-2",
+    "team2": "BEL"
+  },
+  {
+    "bracket": "SB",
+    "team1": "CRO",
+    "score": "1-0",
+    "team2": "ENG"
+  },
+  {
+    "bracket": "P",
+    "team1": "URU",
+    "score": "3-2",
+    "team2": "ENG"
+  },
+  {
+    "bracket": "F",
+    "team1": "BEL",
+    "score": "3-1",
+    "team2": "CRO"
+  },
+  {
+    "bracket": "CHAMPION",
+    "team1": "BEL",
+    "score": "",
+    "team2": ""
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "bracket": "OA",
+    "team1": "URUGUAY 🇺🇾",
+    "score": "2-1",
+    "team2": "PORTUGAL 🇵🇹"
+  },
+  {
+    "bracket": "OB",
+    "team1": "FRANCE 🇫🇷",
+    "score": "0-0",
+    "team2": "ARGENTINA 🇦🇷"
+  },
+  {
+    "bracket": "OC",
+    "team1": "BRAZIL 🇧🇷",
+    "score": "1-1",
+    "team2": "MEXICO"
+  },
+  {
+    "bracket": "OD",
+    "team1": "BELGIUM 🇧🇪",
+    "score": "2-0",
+    "team2": "JAPAN 🇯🇵"
+  },
+  {
+    "bracket": "OE",
+    "team1": "RUSSIA 🇷🇺",
+    "score": "2-2",
+    "team2": "SPAIN 🇪🇸"
+  },
+  {
+    "bracket": "OF",
+    "team1": "DENMARK 🇩🇰",
+    "score": "1-2",
+    "team2": "CROATIA 🇭🇷"
+  },
+  {
+    "bracket": "OG",
+    "team1": "SWITZERLAND 🇨🇭",
+    "score": "0-1",
+    "team2": "SWEDEN 🇸🇪"
+  },
+  {
+    "bracket": "OH",
+    "team1": "ENGLAND 🇪🇺",
+    "score": "1-2",
+    "team2": "COLOMBIA 🇨🇴"
+  },
+  {
+    "bracket": "QA",
+    "team1": "URUGUAY 🇺🇾",
+    "score": "1-0",
+    "team2": "FRANCE 🇫🇷"
+  },
+  {
+    "bracket": "QB",
+    "team1": "BRAZIL 🇧🇷",
+    "score": "2-1",
+    "team2": "BELGIUM 🇧🇪"
+  },
+  {
+    "bracket": "QC",
+    "team1": "SPAIN 🇪🇸",
+    "score": "1-1",
+    "team2": "CROATIA 🇭🇷"
+  },
+  {
+    "bracket": "QD",
+    "team1": "SWEDEN 🇸🇪",
+    "score": "1-1",
+    "team2": "COLOMBIA 🇨🇴"
+  },
+  {
+    "bracket": "SA",
+    "team1": "URUGUAY 🇺🇾",
+    "score": "0-0",
+    "team2": "BRAZIL 🇧🇷"
+  },
+  {
+    "bracket": "SB",
+    "team1": "CROATIA 🇭🇷",
+    "score": "1-0",
+    "team2": "COLOMBIA 🇨🇴"
+  },
+  {
+    "bracket": "P",
+    "team1": "URUGUAY 🇺🇾",
+    "score": "1-0",
+    "team2": "COLOMBIA 🇨🇴"
+  },
+  {
+    "bracket": "F",
+    "team1": "BRAZIL 🇧🇷",
+    "score": "2-1",
+    "team2": "CROATIA 🇭🇷"
+  },
+  {
+    "bracket": "CHAMPION",
+    "team1": "BRAZIL 🇧🇷",
+    "score": "",
+    "team2": ""
+  }
+]

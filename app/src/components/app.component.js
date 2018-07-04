@@ -2,6 +2,7 @@ import React from 'react';
 import styled, { ThemeProvider } from 'styled-components';
 import State, { Consumer } from './state.component';
 import Ranking from './ranking.component';
+import Knockouts from './knockouts.component';
 import { debounce } from 'lodash-es';
 
 export const ResponsiveContext = React.createContext();
@@ -28,7 +29,8 @@ class AppComponent extends React.Component {
   };
 
   state = {
-    mobile: window.innerWidth <= 750
+    mobile: window.innerWidth <= 750,
+    tab: 'ranking'
   };
 
   handleResize = debounce(() => {
@@ -39,22 +41,36 @@ class AppComponent extends React.Component {
     }
   }, 300);
 
+  setTab = tab => this.setState({ tab });
+
   render() {
     const { Provider: ResponsiveProvider } = ResponsiveContext;
+    const { tab, mobile } = this.state;
     return (
       <State>
         <ThemeProvider theme={this.theme}>
-          <ResponsiveProvider value={this.state.mobile}>
+          <ResponsiveProvider value={mobile}>
             <Container>
               <Consumer>
                 {({ players, lastUpdate, version }) => (
                   <Wrapper>
                     <Content>
                       <Tabs>
-                        <Tab active>Group Stage</Tab>
-                        <Tab onClick={() => alert('coming soon!')}>KOs</Tab>
+                        <Tab
+                          onClick={() => this.setTab('ranking')}
+                          active={tab === 'ranking'}
+                        >
+                          Group Stage
+                        </Tab>
+                        <Tab
+                          onClick={() => this.setTab('ko')}
+                          active={tab === 'ko'}
+                        >
+                          KOs
+                        </Tab>
                       </Tabs>
-                      <Ranking list={players.list} />
+                      {tab === 'ranking' && <Ranking list={players.list} />}
+                      {tab === 'ko' && <Knockouts />}
                     </Content>
                     <Footer>
                       <FooterText>Version: {version}</FooterText>

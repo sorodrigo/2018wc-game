@@ -33,7 +33,7 @@ class ResultsModal extends React.PureComponent {
             </Header>
             <Content>
               {results.map(item => (
-                <Item>{item.homeFlag} {item.home} — {item.away} {item.awayFlag} {emojis[item.points]}</Item>
+                <Item key={item.fifa_id}>{item.homeFlag} {item.home} — {item.away} {item.awayFlag} {emojis[item.points]}</Item>
               ))}
             </Content>
             <Footer>
